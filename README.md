@@ -42,3 +42,55 @@ For this project,
 
 
 ## Pages
+
+There are 8 pages in total: 
+1. signup page
+   
+![Screenshot of the signup page](Screenshots/signup_page.png)
+
+2. login page
+
+![Screenshot of the login page](Screenshots/login_page.png)
+ 
+3. main page
+
+![Screenshot of the main page](Screenshots/main_page1.png)
+![Screenshot of the main page](Screenshots/main_page2.png)
+![Screenshot of the main page](Screenshots/main_page3.png)
+![Screenshot of the main page](Screenshots/main_page4.png)
+
+4. page of movies for specific genres
+
+![Screenshot of the page for movies of a specific genre](Screenshots/movies_genre1.png)
+![Screenshot of the page for movies of a specific genre](Screenshots/movies_genre2.png)
+
+5. page of series for specific genres
+
+![Screenshot of the page for shows of a specific genre](Screenshots/series_genre.png)
+
+6. page of the list of the liked movies
+
+![Screenshot of the page for liked movies in the list](Screenshots/mylist_page.png)
+
+7. page of the recommended movies/shows
+
+![Screenshot of the page for recommended movies](Screenshots/recommendations_page.png)
+
+8. page of the search results 
+
+![Screenshot of the page for search results](Screenshots/search_page.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
