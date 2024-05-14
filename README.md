@@ -7,9 +7,7 @@ The aim of this project was to create a website that contains popular movies and
 
 ## Files
 
-In order to view the website, you will need an app that can connect you to a web server, such as XAMPP or UwAmp or any other app you prefer that can do this job.
-
-As for the code, **download the .zip file and extract all the contents**. After extracting the files, you will be able to see an "images" folder, .php files and .css files. The "images" folder includes a subfolder with all the movies, a subfolder with all the shows as well as a video that is used for the background of the website. 
+Begin by **downloading the .zip file and extracting all the contents**. After extracting the files, you will be able to see an "images" folder, .php files and .css files. The "images" folder includes a subfolder with all the movies, a subfolder with all the shows as well as a video that is used for the background of the website. 
 
 Regarding the files, the .css filed are for customisation and to add characteristics to the elements. There is a .css file for the signup page, a .css file for the login page and the same goes for the page with specific genres, the page for the list and the recommendations, the main page and the page for the results of the search. 
 
@@ -29,7 +27,12 @@ As for the .php files, the ones that contain the word "page" are the ones that w
 - series_genre_page.php: displays the shows based on a specific genre that the user has chosen
 - signup_page.php: the initial page of the website. Open this page in order to properly use the website (opening any other page first will not display some of the elements of the website, so in order to use it as intended, open this page first). It gets a username, a password and the age of the user and if the username doesn't already exist, then the user is directed to the website. If the username already exists, it throws an error.
 
-In general, in order to begin exploring, open the signup_page.php and signup as a user of the website. The details for the signup do not need to be very personal, but you should be able to remember them in case you want to log in at a later time.
+**Steps**
+- You will need an app that can connect you to a web server, such as XAMPP or UwAmp or any other app you prefer that can do this job.
+- Download the zip file and extract all of its contents (if you downloaded XAMPP, put the folder in the C folder->xampp->htdocs).
+- After downloading such an app, open the signup_page.php and signup as a user of the website. The details for the signup do not need to be very personal, but you should be able to remember them in case you want to log in at a later time. (If you use Visual Studio Code, download an "Open in Browser" plugin and open the page from there).
+- Explore the website and when you are done, log out.
+- In order to check the recommendations mechanism, create 2 accounts: user1 and user2. Add some movies and shows to the liked lists of the users. Add at least one common movie/show to the list of both. When you log out of user1 and login to user2, you will be able to see the movies/shows that user1 has liked just because user1 and user2 liked at least one same movie/show. This will work if a user3 existed and all three users had liked at least one same movie/show and they would get the list of each other. 
 
 
 ## Code
