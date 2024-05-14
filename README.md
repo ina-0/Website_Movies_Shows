@@ -7,7 +7,9 @@ The aim of this project was to create a website that contains popular movies and
 
 ## Files
 
-In order to view the code, download the .zip file and extract all the contents. After extracting the files, you will be able to see an "images" folder, .php files and .css files. The "images" folder includes a subfolder with all the movies, a subfolder with all the shows as well as a video that is used for the background of the website. 
+In order to view the website, you will need an app that can connect you to a web server, such as XAMPP or UwAmp or any other app you prefer that can do this job.
+
+As for the code, **download the .zip file and extract all the contents**. After extracting the files, you will be able to see an "images" folder, .php files and .css files. The "images" folder includes a subfolder with all the movies, a subfolder with all the shows as well as a video that is used for the background of the website. 
 
 Regarding the files, the .css filed are for customisation and to add characteristics to the elements. There is a .css file for the signup page, a .css file for the login page and the same goes for the page with specific genres, the page for the list and the recommendations, the main page and the page for the results of the search. 
 
@@ -44,53 +46,38 @@ For this project,
 ## Pages
 
 There are 8 pages in total: 
-1. signup page
+1. ***signup page***
    
 ![Screenshot of the signup page](Screenshots/signup_page.png)
 
-2. login page
+2. ***login page***
 
 ![Screenshot of the login page](Screenshots/login_page.png)
  
-3. main page
+3. ***main page***
 
 ![Screenshot of the main page](Screenshots/main_page1.png)
 ![Screenshot of the main page](Screenshots/main_page2.png)
 ![Screenshot of the main page](Screenshots/main_page3.png)
 ![Screenshot of the main page](Screenshots/main_page4.png)
 
-4. page of movies for specific genres
+4. ***page of movies for specific genres***
 
 ![Screenshot of the page for movies of a specific genre](Screenshots/movies_genre1.png)
 ![Screenshot of the page for movies of a specific genre](Screenshots/movies_genre2.png)
 
-5. page of series for specific genres
+5. ***page of series for specific genres***
 
 ![Screenshot of the page for shows of a specific genre](Screenshots/series_genre.png)
 
-6. page of the list of the liked movies
+6. ***page of the list of the liked movies***
 
 ![Screenshot of the page for liked movies in the list](Screenshots/mylist_page.png)
 
-7. page of the recommended movies/shows
+7. ***page of the recommended movies/shows***
 
 ![Screenshot of the page for recommended movies](Screenshots/recommendations_page.png)
 
-8. page of the search results 
+8. ***page of the search results***
 
 ![Screenshot of the page for search results](Screenshots/search_page.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
